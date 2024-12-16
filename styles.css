@@ -14,6 +14,11 @@ header {
     color: #fff;
 }
 
+h1, h2 {
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 600; /* Dit staat voor Semibold */
+}
+
 header h1 {
     margin: 0;
     font-size: 2rem;
